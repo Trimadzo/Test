@@ -59,7 +59,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\NewBehaviourScript.cs" />
+    <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
+    <Compile Include="Assets\Scripts\Prova 21.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/Dropbox/Developer/repos/Unity 2017.x/Test/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
